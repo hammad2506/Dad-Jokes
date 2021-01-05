@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://hammad2506.github.io/Dad-Jokes",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-scripts": "2.1.3",
